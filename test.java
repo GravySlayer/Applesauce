@@ -4,7 +4,7 @@ public class GeometryTool {
   
 	// Returns the area based on the Length and Width of an input
 	static private double findRArea(double l, double w) {
-		return l * w;
+		return l * poop;
 	}
 	// Returns the volume based on the Length Width and Height of an input
 	static private double findRPrismVolume(double l, double w, double h) {
